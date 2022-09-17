@@ -28,7 +28,13 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "src/assets/vendor/aos/aos.css",
+              "src/assets/vendor/bootstrap/css/bootstrap.min.css",
+              "src/assets/vendor/bootstrap-icons/bootstrap-icons.css",
+              "src/assets/vendor/glightbox/css/glightbox.min.css",
+              "src/assets/vendor/remixicon/remixicon.css",
+              "src/assets/vendor/swiper/swiper-bundle.min.css"
             ],
             "scripts": []
           },
